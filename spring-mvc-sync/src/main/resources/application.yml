@@ -1,0 +1,5 @@
+server:
+  port: 8081
+
+order:
+  url: "http://localhost:8081/order?delay=%d"
